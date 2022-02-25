@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable the Lord Mayor, aldermen and livery-men of the city of London, in the parish-church of St. Lawrence-Jewry, on the feast of St. Michael 1693 at the election of the Lord Mayor for the year ensuing / by William Strengfellow ...</title>
+            <author>Strengfellow, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61823</idno>
+            <idno type="STC">Wing S5961</idno>
+            <idno type="STC">ESTC R33814</idno>
+            <idno type="EEBO-CITATION">13567787</idno>
+            <idno type="OCLC">ocm 13567787</idno>
+            <idno type="VID">100331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1050:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable the Lord Mayor, aldermen and livery-men of the city of London, in the parish-church of St. Lawrence-Jewry, on the feast of St. Michael 1693 at the election of the Lord Mayor for the year ensuing / by William Strengfellow ...</title>
+                  <author>Strengfellow, William.</author>
+               </titleStmt>
+               <extent>[7], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Walter Kettilby ...,</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XX, 22 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="approbation">
+            <pb facs="tcp:100331:1"/>
+            <head>Fleet Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>Martis decimo die <hi>Octobr. 1693.</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Reg. Regis &amp; Regin' <hi>Willielmi</hi> &amp; <hi>Mariae, Angliae,</hi> &amp;c. Quinto.</date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire M<hi rend="sup">r</hi> 
+               <hi>Streng<g ref="char:EOLhyphen"/>fellow</hi> to Print his Sermon Preached before the Lord Mayor, Aldermen, and Livery-men of this City, at the Pariſh-Church of St. <hi>Lawrence-Jewry,</hi> before the Election of the Lord Mayor, on <hi>Michaelmas</hi> day laſt.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>Ra. Barker.</signed>
+               <dateline>Lambeth <date>Oct. <hi>17. 1693.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:100331:1"/>
+            <p>A SERMON Preach'd before the RIGHT HONOURABLE THE Lord Mayor, <hi>Aldermen</hi> and <hi>Livery-men</hi> OF THE CITY of <hi>LONDON,</hi> IN THE Pariſh-Church of St. <hi>Lawrence-Jewry,</hi> ON THE Feaſt of St. <hi>Michael</hi> 1693. At the Election of the Lord Mayor for the Year enſuing.</p>
+            <p>By <hi>WILLIAM STRENGFELLOW,</hi> M. A. Lecturer of St. <hi>Dunſtan</hi>'s <hi>Eaſt.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. W.</hi> for <hi>Walter Kettilby,</hi> at the Biſhop's Head in St. <hi>Paul</hi>'s Church-Yard, and <hi>Samuel Eddowes</hi> under the <hi>Piazza,</hi> at the <hi>Royal-Exchange</hi> in <hi>Cornhill,</hi> 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100331:2"/>
+            <pb facs="tcp:100331:2"/>
+            <head>TO THE Right Honourable Sir <hi>JOHN FLEET,</hi> Lord Mayor OF THE CITY of <hi>LONDON,</hi> And to the COURT of ALDERMEN.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>'TIS an Obſervation I have made for now a dozen Years at leaſt (wherein I ſhould yet be very glad to find my ſelf miſtaken) that there is no one thing of more pernicious con<g ref="char:EOLhyphen"/>ſequence, to the Peace and Tranquillity of this Renowned City, than its diſorderly Popular Elections, whether of Magiſtrates to Rule, or of Miniſters to Teach. The latter of theſe Evils, I dare ſay, the moſt conſiderable Part of the Clergy here do both highly diſapprove, and ve<g ref="char:EOLhyphen"/>ry heartily bewail: the which, I hope, will at length meet
+<pb facs="tcp:100331:3"/>with a Rebuke as publick as the Scandal it gives, from ſome or other Superiour of that Order, whoſe Gravity and Abilities are moſt likely to be effectually ſucceſsful in the reclaiming of it. And 'twas chiefly becauſe I knew my ſelf to be no fit Match for the former, that I did not without ſome Reluctancy ingage in the Service Your Lordſhip was pleaſed to enjoin me upon this peculiar Oc<g ref="char:EOLhyphen"/>caſion, which I eaſily foreſaw would moſt naturally induce an Encounter with it. For of all the Parts of a Preach<g ref="char:EOLhyphen"/>er's Duty, that of <hi>Publick Reproof</hi> should be diſchar<g ref="char:EOLhyphen"/>ged with both <hi>Strength</hi> and <hi>Courage, Skill</hi> and <hi>Au<g ref="char:EOLhyphen"/>thority;</hi> and is (I think) generally the leaſt becoming, but however the moſt unreliſhable from any of us of the <hi>Junior</hi> Sort.</p>
+            <p>
+               <hi>My Lord,</hi> 'Tis our great Diſadvantage in occaſional Sermons (and eſpecially upon ſo copious a Subject as fell to my ſhare here) that we have ſeldom time to preſs home any ſingle Argument, without defrauding of all others: and ſo are forc'd rather to pick, than collect Mate<g ref="char:EOLhyphen"/>rials; to ſay nothing at all upon ſome Heads, and perhaps not enough upon any. And (among others) that's one conſiderable Defect of the Inſtructive Pages of the en<g ref="char:EOLhyphen"/>ſuing Diſcourſe: which is ſcarce any thing more than a Curſory Touch upon many ſuch Particulars, as do well de<g ref="char:EOLhyphen"/>ſerve a more ſolid Treatment. And though in the few Elenchtical Periods of it, 'twas my reall Deſign to act the Plain-Dealer; yet I'm ſure I have no where wilfully broke in upon that becoming Deference, which I know to be the rightful Due of thoſe Worthy Sages, who were chiefly in Nomination in the late Election. I have there<g ref="char:EOLhyphen"/>fore given them the Title of <hi>Candidates,</hi> becauſe I know not by what more proper Term either to expreſs my mean<g ref="char:EOLhyphen"/>ing, or to diſtinguiſh them from the reſt of their Bre<g ref="char:EOLhyphen"/>thren. And though I ſometimes call them Competitors
+<pb facs="tcp:100331:3"/>alſo, yet the indifferent Reader will eaſily diſcern I have taken care to charge the blameable Indecencies of the Competition, not upon them, but upon the undiſciplin'd and tumultuary Populace.</p>
+            <p>
+               <hi>My Lord,</hi> There is no one more ſenſible, than my ſelf, of the numerous Imperfections of the whole: And if I have any good Opinion of it, 'tis purely owing to the kind Acceptance it unexpectedly found from both <hi>Your Lordſhip</hi> and the <hi>Honourable Court.</hi> And becauſe I know not what ſhould probably invite ſo publick an Ap<g ref="char:EOLhyphen"/>probation as you have ſince been pleaſed to grace it with, unleſs its Plainneſs and unaffected Simplicity: I have therefore taken care to make You a Tender of it from the Preſs, in the very ſame homely Dreſs You had it from the Pulpit; ſave onely that I have added a ſin<g ref="char:EOLhyphen"/>gle Paſſage or two, to prevent the miſ-underſtanding of my meaning in ſeveral others.</p>
+            <p>In fine, <hi>(My Lord)</hi> Whatever may be the Effect of this mean Performance, I'm ſufficiently conſcious 'twas ſincerely intended for a charitable Effort (without all manner of Reflection upon either Perſon or Party) to<g ref="char:EOLhyphen"/>wards the ſo much to be deſir'd Compoſure of our un<g ref="char:EOLhyphen"/>happy Differences. And though the farther Publication of it is an Inſtance of my Obedience to <hi>Your Lordſhip</hi>'s Commands, wherein I had much rather have been excu<g ref="char:EOLhyphen"/>ſed; yet if the Reader will peruſe it with the like Can<g ref="char:EOLhyphen"/>dour it met with from that <hi>Venerable Audience</hi> where<g ref="char:EOLhyphen"/>in 'twas uttered; it can, I hope, do no harm, and may (by the Bleſſing of God) do ſome good.</p>
+            <p>
+               <hi>My Lord,</hi> I have nothing more to add, but my moſt grateful Acknowledgment of <hi>Your Lordſhip</hi>'s ma<g ref="char:EOLhyphen"/>ny and ſignal Favours, both before and ſince Your Ad<g ref="char:EOLhyphen"/>vancement to the Chair of Eminence. And if 'twere not to prove what I believe no one doubts, I could
+<pb facs="tcp:100331:4"/>my ſelf ſupply as convincing a Teſtimony of Your ſur<g ref="char:EOLhyphen"/>paſſing Private Munificence, as the Year of Your Mayor<g ref="char:EOLhyphen"/>alty hath many of Your Publick. But I'm ſenſible they no more need the Encomiums of either Tongue or Pen, than Your Honour doth the Support of the Praetorial Robe. You may now with Satisfaction put off the lat<g ref="char:EOLhyphen"/>ter, but the former will be the indelible Ornament of Your Name and Memory. And 'twere Injuſtice in this great City, to grudge You a little Eaſe in one kind, ſince She hath taken care to burden You in another: or to repine at Your Abſence at <hi>Guild-Hall,</hi> while You ſollicite Her Interest in St. <hi>Stephen</hi>'s <hi>Chapel.</hi>
+            </p>
+            <p>May You long enjoy the fragrant Odours of Your diffuſive Beneficence, in this World; and at length reap the compleat Reward of it, in that which is to come. And may God Almighty bleſs this Famous <hi>Corpora<g ref="char:EOLhyphen"/>tion</hi> with a lasting Succeſſion of ſuch Governours, is the hearty Prayer of,</p>
+            <closer>
+               <salute>MY LORD,</salute>
+               <signed>Your Lordſhip's Highly obliged, and moſt devoted humble Servant, <hi>W. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100331:4"/>
+            <head>A SERMON Preached at the ELECTION OF THE Lord Mayor.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Matth. xx. 22. former part.</hi>
+               </bibl>
+               <q>But Jeſus anſwered and ſaid, Ye know not what ye ask.</q>
+            </epigraph>
+            <p>THE Diſciples of our Lord being big with expectation of their mighty Promotions, upon his approaching Inveſtment with the Regal Power; they had frequent Jealou<g ref="char:EOLhyphen"/>ſies, and warm Debates, which among them ſhould be the Greateſt under him. One probably thought, his Maſter's peculiar<note n="*" place="margin">Matth. 16.18, 19.</note> Promiſe was ſufficient to give him the beſt right to that topping Dignity. Others
+<pb n="2" facs="tcp:100331:5"/>that they ſtood faireſt for it, upon the ſcore of their<note n="*" place="margin">John 13.23.</note> Boſom-intimacy, their<note n="†" place="margin">Gal. 1. 19.</note> proximity of blond, their ſurpassing<note n="‖" place="margin">Mark 3.17.</note> endowments, and ſuch like inſtances of their perſonal merit. But amongſt 'em all, <hi>James</hi> and <hi>John</hi> the Sons of <hi>Zebedee</hi> (imagining perhaps that their own united Claims, and their<note n="*" place="margin">Matth. 27.56.</note> zealous Mo<g ref="char:EOLhyphen"/>ther's importunity could hardly both miſcarry) took the boldneſs to addreſs him in none of the moſt<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Mark 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.35.</note> ſub<g ref="char:EOLhyphen"/>miſſive terms, that they might have the priviledge to ſit, the one on his right hand, the other on his, left. His Kingdom they fanſy'd was not only to be a temporal one, but was moreover to be eſtabliſh'd by the Jewiſh Model: And having lately heard him<note n="‖" place="margin">Matth. 19.28</note> declare, that even all the twelve ſhould be his<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Viceroys, or Deputy-Magiſtrates in each his reſpective Province; 'twas the high-flown aim of theſe two Brethren, to inſure to themſelves the two moſt eminent of thoſe honour<g ref="char:EOLhyphen"/>able Poſts, which they ſuppoſed would (like thoſe of <hi>Joſeph</hi> and <hi>Judah</hi> of old) entitle them to the Pre<g ref="char:EOLhyphen"/>cedence of all the reſt.</p>
+            <p>Now to this their ambitious requeſt, my Text (which immediately follows) is a ſhort, but effe<g ref="char:EOLhyphen"/>ctual both check and reply. <hi>Jeſus anſwered and ſaid Ye know not what ye ask.</hi>
+            </p>
+            <p>Where obſerve, that theſe words <hi>[Ye know not]</hi> may fairly denote to us either 1. A downright ig<g ref="char:EOLhyphen"/>norance: You understand not the nature of thoſe il<g ref="char:EOLhyphen"/>luſtrious Offices you ſue for under my intended Go<g ref="char:EOLhyphen"/>vernment. Or 2. A ſtupid<note n="†" place="margin">Act 23.5.</note> inconſideration: If ye do underſtand them, ye little think of the weight and burden of them, or of the accompliſhments ne<g ref="char:EOLhyphen"/>ceſſary to their due diſcharge.</p>
+            <p>In the former ſenſe, they are moſt properly appli<g ref="char:EOLhyphen"/>cable
+<pb n="3" facs="tcp:100331:5"/>to the two Apoſtles to whom they were ſpoke: But in this latter, they may well ſerve for a cautio<g ref="char:EOLhyphen"/>nary admonition to all Candidates for the Magiſtra<g ref="char:EOLhyphen"/>cy, in any, whether greater or leſſer Communities. And as ſuch I ſhall briefly treat of them, under theſe enſuing general Heads.</p>
+            <list>
+               <item>I. I ſhall enquire a little into the real object of thoſe mens Suit, who are at any time Candi<g ref="char:EOLhyphen"/>dates for the Office of a Magiſtrate; or ſhall ſhew, what it is they muſt be ſuppos'd to ask.</item>
+               <item>II. From the nature of the office ſo deſcrib'd, I ſhall infer the ſeveral Qualifications requi<g ref="char:EOLhyphen"/>ſite to fit them for it.</item>
+               <item>III. Thoſe Qualifications being ſuppos'd, I ſhall next enquire, Whether or no, and how far 'tis allowable to ask, or ſue for any ſuch of<g ref="char:EOLhyphen"/>fice, or poſt of eminence.</item>
+               <item>IV. I ſhall curſorily remark upon ſome ſuch unbecoming ways of asking, as I fear our own Age is too juſtly chargeable withal. And,</item>
+               <item>V. Laſtly, Shall conclude all with a ſummary Exhortation, adapted to the occaſion of our preſent Solemnity. I begin with the firſt thing now propos'd. And that is,</item>
+            </list>
+            <p n="1">I. To enquire a little into the moſt ſubſtantial object of thoſe mens ſuit, who are at any time Can<g ref="char:EOLhyphen"/>didates for the Office of a Magiſtrate; or to ſhew what it is they muſt be ſuppos'd to ask. Now I conceive the honourable Office, to which 'twill be here expected my following Diſcourſe ſhould bear ſomewhat of immediate reſpect, doth always afford
+<pb n="4" facs="tcp:100331:6"/>theſe three things moſt eſpecially conſiderable: Abundance of buſineſs, a multitude of Snares, and a very ſolemn and ſevere charge. Other appendages 'tis poſſible it may have, but theſe it muſt have its inſeparable Companions. And though even theſe ſit heavier or lighter, in proportion to the circum<g ref="char:EOLhyphen"/>ſtances of times and ſeaſons; yet they ſeldom or never become ſo inſenſible, as not to deſerve the eſteem of a real burden. Firſt I ſay,</p>
+            <p n="1">1. One ſure entail on the Magiſtrate's Office, is that of abundance of buſineſs. And indeed, 'twas this was the main occaſion of the firſt inſtitution of the ſubordinate Magiſtracy. For we read (<hi>Exod.</hi> 18.) that <hi>Jethro,</hi> obſerving the Government of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> was too great a task for any one Man, firſt ad<g ref="char:EOLhyphen"/>moniſh'd <hi>Moſes</hi> (<hi>ver.</hi> 18.) <hi>Thou wilt ſurely wear away</hi> (ſays he) <hi>both thou, and this people that is with thee; for this thing is too heavy for thee, thou art not able to perform it thy ſelf alone:</hi> And then advis'd him (<hi>ver.</hi> 21.) <hi>to provide out of all the people a certain number of able men, men of truth, ſuch as feared God, and hated Covetouſneſs, and to place ſuch over them, to be rulers of thouſands, and rulers of hundreds, rulers of fifties, and rulers of tens.</hi> And as (in imitation of this ſame early pattern) it hath been long ſince found neceſ<g ref="char:EOLhyphen"/>ſary in our own Nation, to divide the burden to make it tolerable; ſo there are ſome ſhares ſtill ſo very weighty (as particularly that of this great and po<g ref="char:EOLhyphen"/>pulous City) that I had almoſt ſaid, thoſe Magi<g ref="char:EOLhyphen"/>ſtrates had need really be (what they arc honour<g ref="char:EOLhyphen"/>ably ſtyled) no leſs than Gods, who adventure on 'em.</p>
+            <p>For on all ſuch 'tis highly incumbent (like that Almighty Soveraign they repreſent) to have a
+<pb n="5" facs="tcp:100331:6"/>watchful Eye upon all the Dangers, the Ails, the Exigences, and Intereſts of the Publick.</p>
+            <p>As heroick Souls, of a more than ordinary divine Extract, to inform and actuate every Member of the Body-politick.</p>
+            <p>As main Springs, by their own ſteddy motions to maintain a regularity among all their depen<g ref="char:EOLhyphen"/>dants.</p>
+            <p>As common Parents, to divide their Care and Affection with a Prudence, and Impartiality, ſufficient (if poſſible) to preſerve a happy Concord among their numerous Progeny.</p>
+            <p>As the general Proveditors of their reſpective Territories, to be the ſure Refuge of Widows and Orphans, the ignorant and the impotent, the hungry and the naked, the ſick, the impriſon'd, and calami<g ref="char:EOLhyphen"/>tous Strangers.</p>
+            <p>As univerſal Benefactors, to imploy an authorita<g ref="char:EOLhyphen"/>tive concern for all neceſſary charitable Contribu<g ref="char:EOLhyphen"/>tions, to conferr vacant Offices upon ſuch as moſt need and beſt deſerve them, to keep up ſuch an innocent Hoſpitality as is fairly becoming the Dig<g ref="char:EOLhyphen"/>nity of their Stations, to provide Work and Employ<g ref="char:EOLhyphen"/>ment for the Honeſt and Induſtrious, and Stripes for all Vagrants, Night-walkers, and luſty Beggars.</p>
+            <p>As the truſty Stewards of all eſtabliſh'd Munifi<g ref="char:EOLhyphen"/>cence, to viſir Hoſpitals, and all endowed Founda<g ref="char:EOLhyphen"/>tions; to aſſert their Rights, enforce their Diſcipline, and (by a good improvement of their preſent Re<g ref="char:EOLhyphen"/>venues) to invite others to be Benefactors.</p>
+            <p>As publick Mediators, to bring all Differences they can to an amicable period.</p>
+            <pb n="6" facs="tcp:100331:7"/>
+            <p>As the Conſervators of our Municipal Laws, to make them both ſacred in their Authority,<note place="margin">Vere dici poteſt, Magiſtratum eſſe Legem loqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntem, Legen autem mutum Magiſtratum. <hi>Cic. de Leg. Lib.</hi> 3.</note> and effe<g ref="char:EOLhyphen"/>ctual in their End; a Security to every one's juſt Rights, a Curb to Vice, and a Protection (not a Snare) to Virtue.</p>
+            <p>Above all, it behoveth <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be the zealous Pa<g ref="char:EOLhyphen"/>trons of true<note n="*" place="margin">Iſa. 49.23.</note> Religion, to be eminent<note n="†" place="margin">Numb. 27.17.</note> Patterns of it themſelves, ſtrict<note n="‖" place="margin">Joſh. 24.15.</note> Upholders of it in their Families,<note n="*" place="margin">2. Chro. 30.22.</note> powerful Abettors of its induſtrious Planters, and<note n="†" place="margin">Rom. 13.3, 4.</note> reſolute Avengers of all ſuch as ſhall dare to affront either it, or<note n="‖" place="margin">Deut. 17.12.</note> them in the vindication of it. For (alas!) what can our Pulpit-Admoniti<g ref="char:EOLhyphen"/>ons, or pathetical Harangues be ſuppos'd to ſignifie, if they be not back'd with the Magiſtrate's Autho<g ref="char:EOLhyphen"/>rity; if the Rods and Axes don't both ſedulouſly purſue, and effectually overtake that proſeſs'd A<g ref="char:EOLhyphen"/>theiſm, that monſtrous Profaneneſs, and triumphant Wickedneſs, which (for the moſt part) are out of the reach of, but however, are always ſure Proof againſt all ſuch our incoereive Attacks?</p>
+            <p>Theſe are ſome, and (I appeal to thoſe of expe<g ref="char:EOLhyphen"/>rience amongſt you) they are but ſome parts of that huge Variety of both Care and Buſineſs, that's in<g ref="char:EOLhyphen"/>diſpenſably annex'd to the chief Magiſtracy of this ſpacious Corporation. And as it requires an extraor<g ref="char:EOLhyphen"/>dinary ſupply of Divine Aid, to bear the Burden thus imperfectly deſcrib'd; ſo he muſt be more than a meer man, who can walk upright and ſtea<g ref="char:EOLhyphen"/>dily under it, without either ſtumbling or ſtepping awry. For, 2ly,</p>
+            <p n="2">
+               <pb n="7" facs="tcp:100331:7"/>2. Proportionable to his buſineſs will his Snares be alſo, and he muſt expect to meet with frequent intermixtures of the one with the other.</p>
+            <p>'Tis odds but his Honour will tempt him to either<g ref="char:punc">▪</g> an over-weaning Opinion of his own Merits, or an undervaluing one of thoſe of others. The Head that is ſteady enough upon even ground, may unex<g ref="char:EOLhyphen"/>pectedly turn giddy upon the Pinnacle of Eminence: And that muſt be a great Soul indeed, who while he wears the Dignity and Title of a<note n="*" place="margin">Pſal. 82.6.</note>
+               <hi>God,</hi> doth not be<g ref="char:EOLhyphen"/>wray the Vanity and Infirmity of a Man.</p>
+            <p>Moreover, his Authority affords Snares, as well as his Honour; and he'll be ſtrongly ſolicited (both from within and from without) to employ the power he's intruſted with for the Publick Good, to either his own or other mens private.</p>
+            <p>'Tis great hap, if his Parental Affection doth not run too ſtrong one particular way: And if he be not duly careful to diffuſe it equally, he will deſcend from a common to a private Father; and while he pampers the Darling, will, ſtarve the Diſaffected.</p>
+            <p>He will undoubtedly be tamper'd withal as a publick Benefactor, for both, the beſtowing of his Fa<g ref="char:EOLhyphen"/>vours, and the uſe of his Intereſt; and if he be not ſtrongly fortified with an unbyaſs'd Integrity, he'll ſoon learn at once both to connive at the Demerit of the beſt befriended, and to overlook die Worth of the lonely Supplicant.</p>
+            <p>His Juſtice may degenerate into either Tyranny or Partiality; and if either a deſpicable Poverty, a private Grudge, a revengeful Inclination (on the one hand) or an over-grown Eſtate, a ſowre Aſpect, a ſecret Reſpect, or a paltry Bribe on the other, be put
+<pb n="8" facs="tcp:100331:8"/>in competition with the Merit of the Cauſe; he'll be ſure to want neither Skill nor Evidence; to decide the Controverſie.</p>
+            <p>If his Mind ben't exalted above the catching Tranſports of either Vanity, Impatience, or an un<g ref="char:EOLhyphen"/>decent Raſhneſs, he may be in danger from that Quarter alſo: For, 'tis no new thing in his publick poſt, to meet with both Flattery, Obloquy, and de<g ref="char:EOLhyphen"/>ſigned Provocation.</p>
+            <p>His Hoſpitality may be ſometimes enſnaring to both himſelf and others: To himſelf, by its engroſ<g ref="char:EOLhyphen"/>ſing too great a proportion of either his Time or his Fortune: To others with himſelf, by their per<g ref="char:EOLhyphen"/>verting it into the occaſion of a ſinful exceſs. 'Tis hard to pleaſe ſome, by keeping within the Bounds of an orderly Diſcipline, and a Chriſtian Tempe<g ref="char:EOLhyphen"/>rance; but impoſſible to maintain both the exem<g ref="char:EOLhyphen"/>plary Innocence, and the due Veneration of a pub<g ref="char:EOLhyphen"/>lick Magiſtrate, conſiſtently with the breach or tranſgreſſion of either.</p>
+            <p>And finally, well 'tis for him, if amidſt this crowd of other buſineſs, he can find either leaſure or incli<g ref="char:EOLhyphen"/>nation for Religion, which is beyond all compare the moſt important. For we are all ready to fancy an urgent occaſion is abundantly ſufficient to excuſe the Homage we owe to Piety, at leaſt till we have bet<g ref="char:EOLhyphen"/>ter opportunity and time for it: And by conſe<g ref="char:EOLhyphen"/>quence, he that hath (at moſt) but little to ſpare, will be tempted to employ it upon ſomewhat elſe. But when greatneſs and multiplicity of Buſineſs meet together, thoſe amount almoſt to an Authoritative Licence: And where the Magiſtrate relies on that, for an excuſe of his Profaneneſs; as his Office can<g ref="char:EOLhyphen"/>not
+<pb n="9" facs="tcp:100331:8"/>fail of being a private Snare to himſelf, ſo his unhallow'd diſcharge of it muſt inevitably prove a publick Scandal to all others.</p>
+            <p>And if to his hurry of Buſineſs, and his train of Snares, we ſubjoyn in the laſt place,</p>
+            <p n="3">3. The weight and ſeverity of the Magiſtrate's Charge, they'l together (I think) very fairly amount to the ſum total of his great Acqueſt.</p>
+            <p>His Charge is as extenſive as his whole Pro<g ref="char:EOLhyphen"/>vince; and of no leſs moment than the common Felicity of all its parts. Of no leſs, ſaid I? Nay, oftentimes of infinitely greater. For there are ſome peculiar authoritative Poſts, which (though of limited power) are of univerſal influence: And if I apply the Aſſertion particularly to that of the Chief Magiſtrate of this Great City, I ſhall not need to ſeek far, for either Records or Vouchers to confirm the truth on't. The Metropolis of a Nation is its Univerſal Academy: And if either Vice or Error, Atheiſm or Profaneneſs, Faction or Diſorder, prevails in the one, the Tincture will of courſe inevitably ſpread, and the other muſt quickly learn the Faſhion.</p>
+            <p>Now, the more eminent the Station, the greater the Truſt: And the greater the Truſt, the more fatal the Miſcarriage. And as the Welfare or Ruine of all the Members ſo immediately de<g ref="char:EOLhyphen"/>pends upon that of the Head, ſo he had need be well aſſured of his own ability, who either ſues for, or accepts the regimen of it.</p>
+            <p>Eſpecially if he conſiders withal (together with the Object) the Author of his Charge: For how<g ref="char:EOLhyphen"/>ſoever he may owe the Right of his Office to the
+<pb n="10" facs="tcp:100331:9"/>Peoples Choice, he derives the Authority of it from God Almighty. And as his inveſtiture with it is ordinarily accompanied with the ſolemnity of an Oath; ſo every wilful Miſcarriage in the ſucceed<g ref="char:EOLhyphen"/>ing diſcharge of it, is Perfidiouſneſs to thoſe who entruſt him with the one, and an Affront to that Potentate he repreſents in the other.</p>
+            <p>So that in truth a Magiſtrate cannot ſin at ſo cheap a rate as another man. For, beſides that, as a private perſon, he incurrs the guilt of a Cri<g ref="char:EOLhyphen"/>minal by every violation of the Divine Law<g ref="char:punc">▪</g> he muſt moreover be reſponſible for his daring Pro<g ref="char:EOLhyphen"/>fanation of that Sacred Name he bears as a pub<g ref="char:EOLhyphen"/>lick, and for his vicious Example unto thoſe he governs. Nay, which is yet more, he is not only chargable with his own Faults, but with thoſe of others too: And whatſoever Broils or Commoti<g ref="char:EOLhyphen"/>ons, open Debaucheries or clandeſtine Villanies, advances of Vice or declenſions of Virtue, occurr within his reſpective Territory; in a word, what<g ref="char:EOLhyphen"/>ſoever either Good thing miſcarries which he ought to have promoted, or Evil is committed which he could have prevented, will be ſure to be brought upon his account at the great and dreadful day of the Lord. For how much ſoever the Offices of an Eccleſiaſtick and a Secular Governour may differ in nature, their Charges (I think) run pretty parallel, in this one Caſe at leaſt. They are both Shepherds; they are both Watchmen. And whereas God Almighty threatens the enor<g ref="char:EOLhyphen"/>mous Sinner, that <hi>he ſhall ſurely dye;</hi> if they be not duly careful, the one to warn, the other to reſtrain him from the evil of his ways, <hi>the wicked
+<pb n="11" facs="tcp:100331:9"/>man ſhall dye in his iniquity:</hi>
+               <note place="margin">Ezek. 33.7, 8.</note>
+               <hi>but his blood ſhall be re<g ref="char:EOLhyphen"/>quir'd at their hands.</hi>
+            </p>
+            <p>And thus I have given you a brief account of what I conceive is moſt conſiderable in the vene<g ref="char:EOLhyphen"/>rable Office of a Publick Magiſtrate; and what every one (in conſequence) muſt be ſuppos'd to ſue for, who is a Competitor for it. <hi>Jeſus anſwe<g ref="char:EOLhyphen"/>red, and ſaid, Ye know not what ye ask.</hi>
+            </p>
+            <p n="2">II. The ſecond thing propoſed to be undertaken, I ſhall neither have time, nor indeed occaſion to inſiſt much upon. For, I cannot but think, 'tis an caſie matter for any one of the meaneſt capacity, (and much more for thoſe immediately concern'd) from the nature of the Office thus deſcrib'd, to in<g ref="char:EOLhyphen"/>ferr the ſeveral Qualifications requiſite to fit a man for it.</p>
+            <p>His Buſineſs (you ſee) is like to be great, his Snares numerous, and his Charge exceedingly ſtrict and ſevere. And, 'tis hard to imagine any one ſhould ever acquit himſelf well, in all theſe three reſpect; who is not a man of univerſal Piety, of an inviolable Integrity, a competent Ability, a gene<g ref="char:EOLhyphen"/>rous Magnanimity, an indefatigable Induſtry, and a hearty Well-wiſher to the eſtabliſh'd Religion and Government.</p>
+            <p>He muſt be a man of univerſal Piety; for 'tis cer<g ref="char:EOLhyphen"/>tain he can be but a liſtleſs Abetter of Goodneſs amongſt others, who hath little or no concern for it in himſelf. And how formally or magiſterially ſoever he may ſometimes declare againſt Intem<g ref="char:EOLhyphen"/>perance, Injuſtice, Profaneneſs, and all manner of
+<pb n="12" facs="tcp:100331:10"/>Vice and Immorality; if lie doth not effectually recommend the contrary Virtues by an Example as remarkable as his Place is<note n="*" place="margin">Quo qis in Rep. majorem dignitatis gradum a<g ref="char:EOLhyphen"/>deptues eſt, eo ſubmiſ<g ref="char:EOLhyphen"/>ſius Deum colat. <hi>Agapet.</hi>
+               </note> eminent, his Life will be ſure to put his Zeal to the bluſh, and his Pre<g ref="char:EOLhyphen"/>cepts will quickly commence as inſignificant in the Eſteem of others, as thoſe of his Soveraign Lord and Maſter God Almighty do already appear to be in his.</p>
+            <p>He muſt be a man of Conſcience and Integrity alſo; for, 'tis nothing leſs can render his Conduct uniform, and all of a piece, and keep him tight and hearty to the whole of his Office. He will otherwiſe be in continual danger, to adhere to the pleaſing, and to overlook the unreliſhable parts of his incumbent Duty; to be made the obſequious Bondſlave of every ſpecious Temptation; and up<g ref="char:EOLhyphen"/>on every baſe Overture, to ſnap all the Bands of his Sacred Charge (if they were a Thouſand times ſtronger) with as much Eaſe, and as little Re<g ref="char:EOLhyphen"/>gret, as <hi>Sampſon</hi> of old did his Withs and new Ropes.</p>
+            <p>He muſt moreover be a man of good Abilities, well ſtock'd with the natural and acquir'd En<g ref="char:EOLhyphen"/>dowments of the Mind, and (as <hi>Grotius</hi> with good reaſon interprets the<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Deut. 18.21.</note> word) <hi>with thoſe of Fortune too:</hi> For otherwiſe (be he never ſo honeſt and virtuous) for want of the one, he'll be fre<g ref="char:EOLhyphen"/>quently at a loſs in the reconciling of Differences, the due adminiſtrations of Juſtice, <hi>&amp;c.</hi> and by the ſcantineſs of the other, be put upon ſuch mean arts, and ſordid ſhifts, as will exceedingly abaſe the digni<g ref="char:EOLhyphen"/>ty of his Station.</p>
+            <pb n="13" facs="tcp:100331:10"/>
+            <p>And for the ſame reaſon, he ſhould be a man of a generous Magnanimity, of an enlarged Soul, and an undaunted Courage: For, 'tis this muſt make him the unbyaſs'd Devoto of the publick In<g ref="char:EOLhyphen"/>tereſt, the reſolute Friend of his<note n="*" place="margin">Cari parentes, Liberi &amp;c. ſed omnes omnium caritates Patria una complexa eſt.</note> Country and Community; that muſt inſpire him with a noble diſdain of either a ſelfiſh Loyalty or a diſguſtful Treachery, and ſet him above all the little Engines of either Hope or Fear, Threats or Promiſes, the Frowns of Potentates, or the Corruption of <hi>Louis d' Ors.</hi>
+            </p>
+            <p>I add farther, He muſt be a man of indefatigable Vigilance and Induſtry, of an active Spirit, and a laſting Patience: for, he will otherwiſe be frequent<g ref="char:EOLhyphen"/>ly trepanned into unwary Miſtakes, will grow weary of well-doing, will crouch under his Bur<g ref="char:EOLhyphen"/>then, and faint and move heavily towards the end of his courſe; and ſo conſequently <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lubber over his buſineſs, to the baneful ſlackning of the Reins of Government, the oppreſſion of his Succeſſor, and the no ſmall (nay, perhaps irremediable) detriment of the Weal-publick.</p>
+            <p>And finally, under our preſent circumſtances eſpe<g ref="char:EOLhyphen"/>cially, he had need to be a moſt hearty Well-wiſher to our National Religion and Government. To the former, becauſe 'tis cloſely interwoven with the fundamental Laws of the Monarchy, and his ſepa<g ref="char:EOLhyphen"/>rate Intereſt will be otherwiſe continually prom<g ref="char:EOLhyphen"/>pting him to foment thoſe Mutinies amongſt Chriſt's Members, which (God knows) are hot enough al<g ref="char:EOLhyphen"/>ready, and to turn his peculiar Territory into a Nurſery of Schiſms and Diffentions. To the lat<g ref="char:EOLhyphen"/>ter, for elſe he muſt of courſe be an Abetter of
+<pb n="14" facs="tcp:100331:11"/>
+               <hi>Faction</hi> and <hi>Sedition,</hi> and be always endeavouring to ſet up a little <hi>Common-wealth</hi> in oppoſition to the great one. And to both together, both becauſe 'twill be no eaſie matter for us to change either for a better, and becauſe he's like enough to be ſtrong<g ref="char:EOLhyphen"/>ly ſolicited (by one ſort of Temptation or ano<g ref="char:EOLhyphen"/>ther) to joyn iſſue with their profeſſed Adver<g ref="char:EOLhyphen"/>ſaries. And when once the eſtabliſh'd Religion and Government do ceaſe to be the Darling Twins of their common Patrons; I dare ſay, 'twill deſerve to paſs for a fatal Omen of the Ruin of both.</p>
+            <p>So much ſhall ſuffice for the ſeveral Qualificati<g ref="char:EOLhyphen"/>ons of a good Magiſtrate. With reſpect to all which, I may well put our Saviour's pathetical Que<g ref="char:EOLhyphen"/>ſtion (in the words immediately after my Text) to all Candidates for that honourable Office; <hi>Are ye able to drink of the cup,</hi> &amp;c?</p>
+            <p>But, admit a Man be duly accompliſh'd for it, in all the foregoing reſpects; it then remains to be next enquir'd (which is the 3d general I at firſt propos'd)</p>
+            <p n="3">III. Whether or no, and how far 'tis allowa<g ref="char:EOLhyphen"/>ble for him, to ask, or ſue for any ſuch Poſt of Eminence: For 'tis very obſervable, that though the two Diſciples forthwith reply'd to our Lord's Demand, without any manner of doubt or heſita<g ref="char:EOLhyphen"/>tion, <hi>We are able;</hi> they yet ſucceeded ne'r the bet<g ref="char:EOLhyphen"/>ter afterwards. A certain indication, that he was not a little diſpleas'd with either the matter or cir<g ref="char:EOLhyphen"/>cumſtances of this their Suit.</p>
+            <pb n="15" facs="tcp:100331:11"/>
+            <p>As to the matter or ſubſtance of the Honoura<g ref="char:EOLhyphen"/>ble Office under our preſent conſideration, I ſhall not here aſſert, That 'tis utterly unlawful to deſire it; for I conceive the Apoſtle's words (in a parallel inſtance) do not obſcurely imply the contrary:<note place="margin">1 Tim.3.1</note>
+               <hi>If a man deſire the office of a Biſhop, he deſireth a good work.</hi> And if the Office of a Biſhop may be in ſome ſort innocently deſir'd, I ſee no reaſon why that of a Magiſtrate may not be as well ſo too. But then mark the emphaſis of the Expreſſion (which will equally hold in the Caſe before us) <hi>He deſireth a good work,</hi> ſays he;<note n="*" place="margin">Hieron.</note>
+               <hi>Opus, non digni<g ref="char:EOLhyphen"/>tatem; laborem non delicias.</hi> A Work indeed (as you have already heard) ſo manifold and labori<g ref="char:EOLhyphen"/>ous, ſo dangerous and enſnaring, and enjoyn'd with ſo ſtrict and ſevere a charge, that I cannot ima<g ref="char:EOLhyphen"/>gine how 'tis any ways reconcilable with either that lively apprehenſion we ought always to carry about us of both our numerous Infirmities, and our approaching account, or with humane Pru<g ref="char:EOLhyphen"/>dence and a rectified Reaſon, to be at all eager of adventuring upon it.</p>
+            <p>For, how can a Man be thought conſiderately to court a hurry of Buſineſs, to run deſignedly up<g ref="char:EOLhyphen"/>on a multitude of Snares, or induſtriouſly to draw upon himſelf ſuch a Charge, as he muſt one day give a <hi>strict account</hi> of; ſo long as he may fairly decline them all? Methinks it were enough (in all ordinary Caſes at leaſt) for a Good man not<note n="†" place="margin">Locus ſuperior ſine quo Populus regi non potest, etſi it a adminiſtretur at dccet, tamen indecenter appetitur. <hi>Aug. de Cie<g ref="char:punc">▪</g> Dei.</hi>
+               </note>
+               <hi>obſtinately</hi> to refuſe them, when they are put
+<pb n="16" facs="tcp:100331:12"/>upon him. And there is but one reaſon I can think of, that can ſo much as plauſibly be alledg'd in vin<g ref="char:EOLhyphen"/>dication of an actual deſire; I mean that of the pub<g ref="char:EOLhyphen"/>lick good. And even this too, where 'tis moſt noi<g ref="char:EOLhyphen"/>ſily pretended, is ordinarily leaſt ſincerely meant; and is (I fear) too frequently perverted into a Stale for ſomewhat elſe. And whenſoever you ſee a man tranſported beyond the bounds of a ſtrictly modeſt, or decent inclination; you may reaſonably look up<g ref="char:EOLhyphen"/>on it as a ſhrewd ſign, that either he's poſſeſs'd (like the two Apoſtles in the Text) with an overfond Opinion of his own Abilities, or hath ſome ſiniſter end to ſerve by it.</p>
+            <p>Indeed, 'twas (I conceive) the motive, not the matter of their Suit, which our Bleſſed Saviour mainly deſign'd to reprehend in his bold Supplicants. And from the purport of the ſacred Narrative, (as we have it recorded in both St.<note n="*" place="margin">Ch. 20.20, <hi>&amp;c.</hi>
+               </note>
+               <hi>Matthew</hi> and St.<note n="†" place="margin">Ch. 10.35, <hi>&amp;c.</hi>
+               </note>
+               <hi>Mark</hi>) it ſeems not only probable but plain and obvious, that the chief incentive whereby they were prompted to it, was either Covetouſneſs or Ambi<g ref="char:EOLhyphen"/>tion, or perhaps both of them together.</p>
+            <p>As for Covetouſneſs; how prevalent ſoever that might be in the Apoſtles Caſe, it cannot be reaſon<g ref="char:EOLhyphen"/>ably ſuppos'd to ſway at all, with reſpect to the ve<g ref="char:EOLhyphen"/>nerable Office in queſtion: For to thoſe who ſuc<g ref="char:EOLhyphen"/>ceſſively bear it, we are not a little beholden (among other their publick Benefactions) for maintaining its dignity by the generous expence of ſo very conſi<g ref="char:EOLhyphen"/>derable a part of their own private Fortunes, as can never render it eligible upon a ſcore of Intereſt.</p>
+            <p>But then you'l ſay perhaps, that though the buſi<g ref="char:EOLhyphen"/>neſs, and the ſnares, and the charges of the Magi<g ref="char:EOLhyphen"/>ſtracy
+<pb n="17" facs="tcp:100331:12"/>ſtracy are no very deſirable things, yet the honour and grandeur of it are: and albeit 'tis no great point of Prudence to ſolicit the former, 'tis ſurely very allowable to wiſh for, or endeavour after the latter.</p>
+            <p>I Anſwer, There is indeed a peculiar honour an<g ref="char:EOLhyphen"/>nex'd to the Magiſtrate's Office, and I know no rea<g ref="char:EOLhyphen"/>ſon we have to grudge it him: for if he duly per<g ref="char:EOLhyphen"/>forms the work, I dare ſay he will both dearly earn, and well deſerve the wages. But then that which is ordinarily eſteem'd honour, is nothing more than the outward Appendage or Ornamental dreſs of the Of<g ref="char:EOLhyphen"/>fice; deſigned partly to alleviate the burden to him who bears it, and<note n="*" place="margin">Culrus magnifi<g ref="char:EOLhyphen"/>cus addit homini<g ref="char:EOLhyphen"/>bus autho<g ref="char:EOLhyphen"/>ritatem. <hi>Quintil. luſt.</hi>
+               </note> partly to inſure to him a pro<g ref="char:EOLhyphen"/>founder veneration amongſt thoſe he governs. And there is no poſſeſſing of this honour, without the burden together with it. And if there were, 'tis ſo thin, ſo fleeting, and imaginary a ſomething, as can never be reaſonably made the object of a ſolid de<g ref="char:EOLhyphen"/>ſire. And whereas even true honour is but the ſha<g ref="char:EOLhyphen"/>dow of Virtue, this counterfeit honour can be no more than the ſhadow of the true: Now the ſhadow of a ſhadow, if it be not altogether, is I'm ſure next to nothing at all.</p>
+            <p>So that indeed, the only Honour that either deſer<g ref="char:EOLhyphen"/>veth the name, or is worth the having, is the plea<g ref="char:EOLhyphen"/>ſing reflection, the grateful odour that flows from a conſcientious diſcharge of the Office. And whoſo<g ref="char:EOLhyphen"/>ever he be that deſires this, muſt have a ſpecial care he do n't purſue it too eagerly: For 'tis undoubtedly true, that that which cannot be the proper object of a Man's Covetouſneſs, may yet be that of his Am<g ref="char:EOLhyphen"/>bition or Oſtentation. And true Honour is a tender
+<pb n="18" facs="tcp:100331:13"/>Flower, that quickly loſeth both its Beauty, and its Fragrancy, by too courſe a handling; a critical Plant, that will flouriſh in none but a truly virtuous Soil; a ſhy Spouſe, that's moſt ſucceſsfully courted at a di<g ref="char:EOLhyphen"/>ſtance, and will not endure an urgent importunity; a Divine Treaſure, that can neither be gotten nor kept, but by the moſt fair, the moſt decent, the moſt innocent, and unexceptionable means. And there<g ref="char:EOLhyphen"/>fore thoſe men are extreamly miſtaken in their aim, who attempt to poſſeſs it by any other. Which is a proper Introduction to my fourth General; under which head (you may remember) I at firſt pro<g ref="char:EOLhyphen"/>pos'd,</p>
+            <p n="4">IV. To remark a little upon ſome ſuch unbecom<g ref="char:EOLhyphen"/>ing waves of asking, or ſuing for Honour and Poſts of Eminence, as I fear our own Age is too juſtly chargeable withal.</p>
+            <p>Among the numerous advantages this famous City is ſo ſignally bleſſed with; I preſume we ſhall all agree, its moſt excellently conſtituted Civil Govern<g ref="char:EOLhyphen"/>ment is none of the leaſt conſiderable. And if we have any grievance to complain of under it, I'm per<g ref="char:EOLhyphen"/>ſwaded 'tis mainly one of our own Creating, I mean the undecent, and even ſcandalous annual Canvaſings for the chief Adminiſtration of it. An evil, that's grown of late ſo very pernicious, and ſo univerſally influential; that I dare almoſt adventure to aſſert, there hath been more ill bloud rais'd, and more miſ<g ref="char:EOLhyphen"/>chief done, by the diſorderly Elections of one ſingle year, than by all the Miſgovernments that have occur'd in twenty. A certain Indication this, that we have not ſo great a ſcarcity of men fit for ſuch a
+<pb n="19" facs="tcp:100331:13"/>Promotion, as of Charity, and good Nature, to agree about them amongſt our ſelves.</p>
+            <p>I have not now time (indeed 'twould require a ſet Diſcourſe) to repreſent to you the odious nature, and the fatal effects of thoſe tumultuary hurries, and ſhameful Outrages, which are too too cuſtomary upon theſe Occaſions: The publick toleration whereof I know not how 'tis poſſible to excuſe, un<g ref="char:EOLhyphen"/>leſs by pleading that even Government it ſelf ſuffers a kind of Diſſolution (at leaſt a convulſive interrup<g ref="char:EOLhyphen"/>tion) during the heat and continuance of them. What indefatigable Induſtry is ordinarily us'd, to draw out the whole repreſentative Body of the City, as it were in two great oppoſite Bands; to Skirmiſh as furiouſly with each other, as 'tis poſſible, without the loſs of either Life or Limbs? How do the bigot<g ref="char:EOLhyphen"/>ted Agents of perhaps both ſides, labour, and ſtrug<g ref="char:EOLhyphen"/>gle, by might and main, by Tricks and Colluſions, by Clubs and Cabals, by Smiles and Frowns, Pro<g ref="char:EOLhyphen"/>miſes and Threats, and a hundred other methods too myſterious for me to pry into, to make each their own Party the moſt numerous? With what mon<g ref="char:EOLhyphen"/>ſtrous rudeneſs and ſcurrility do they not only treat each other, but even the ſage Candidates for the Ma<g ref="char:EOLhyphen"/>giſtracy themſelves? Inſomuch, that to put any one in nomination on one ſide, is in effect nothing leſs, than to expoſe him openly to all the opprobrious taunts, and ſarcaſtick Invectives, the direful Slan<g ref="char:EOLhyphen"/>ders, and infamous Libels, that either Wit or Ma<g ref="char:EOLhyphen"/>lice can invent, on the other. And all this for the ſake of a momentous Victory forſooth, the gaining of one the preference out of four or five, who (at
+<pb n="20" facs="tcp:100331:14"/>the ſame time) are probably all unexceptionable Men, and very worthy to fill the Chair.</p>
+            <p>Theſe, and ſuch other unſeemly, unchriſtian, and even inhumane methods of competition, I can<g ref="char:EOLhyphen"/>not but think are thoſe accurſed things, that mainly ſerve exceedingly to Eclipſe the common felicity of this Renowned Corporation. The ferment of diſ<g ref="char:EOLhyphen"/>ſention is often rais'd ſo high upon one of theſe days, that it cann't be quite allay'd the whole year round. And thus the Body-Politick being never thoroughly clear'd, its diſtemper returns (and perhaps with a double violence) like a lurking Ague at its wonted Seaſon.</p>
+            <p>You'l ſay perhaps, theſe are baneful and Epidemi<g ref="char:EOLhyphen"/>cal Evils indeed; but what courſe can be taken, that's likely to remedy them?</p>
+            <p>That's a Queſtion too hard for me to Anſwer: And therefore I chuſe rather to leave (nay most earneſtly to recommend) it to the mature delibera<g ref="char:EOLhyphen"/>tion of thoſe amongſt you, whoſe Authority and In<g ref="char:EOLhyphen"/>fluence makes 'em moſt capable of doing it, to re<g ref="char:EOLhyphen"/>ſolve upon ſome ſuch Expedients, as may moſt effe<g ref="char:EOLhyphen"/>ctually prevent 'em for the time to come.</p>
+            <p>However, that I may not quite diſmiſs this Argu<g ref="char:EOLhyphen"/>ment, without ſome teſtimony of my hearty good will to ſo deſirable an end; accept the offer of my poor Mite towards it, in the Fifth and laſt place,</p>
+            <p n="5">V. In a few words of Advice or Exhortation, 1. To the Competitors for, 2. To the Electors to, And 3. To him who ſhall be inſtated in the chief Seat of Magiſtracy, for the Year enſuing.</p>
+            <pb n="21" facs="tcp:100331:14"/>
+            <p>To thoſe of you who shall be put in Competition for this Poſt of Eminence, give me leave moſt affe<g ref="char:EOLhyphen"/>ctionately to recommend an unfeigned Love, a fra<g ref="char:EOLhyphen"/>ternal Kindneſs, and an inoffenſive Conduct towards one another. Remember 'tis one of the beſt aſſu<g ref="char:EOLhyphen"/>rances you can give the Publick of your real deſert of the Honour you are in nomination for, to ſhew a generous diſdain of all little Tricks, circumventing Artifices, or unwarrantable means for the attaining of it. Be ſo far your ſelves, from approving of, conniving at, or being active in the Calumniating, the Libelling, or beſpattering of one anothers Repu<g ref="char:EOLhyphen"/>tation, as to diſcountenance it all you poſſibly can in others. Have a care of betraying any ſuch over-for<g ref="char:EOLhyphen"/>ward inclination for your own Promotion, as is not fairly conſiſtent with both the Rules of decency, and the beſt intereſt of that whole Community of which you are Members. And chuſe rather (with the true<note n="*" place="margin">1 King. 3.26.</note> Mother) to reſign the Child to the doubtful nurture of the contentious Pretender, than to be wil<g ref="char:EOLhyphen"/>lingly Acceſſary to its certain mine, by the dividing of it.</p>
+            <p>To thoſe of you who are immediately concern'd in the Election, 'tis my ſerious advice; That as you have now begun the ſolemnity of the day, you'l have a ſpecial care to purſue, and end it too, as becometh Chriſtian Brethren. And to this effect, ſet each one a ſtrict watch before the door of your own Lips; and let all Bitterneſs, and Wrath, and Clamour, and Evil-ſpeaking, and Malice, be put away far from you. Let neither Zeal for a Party, nor a Perſonal Friendſhip, nor a ſecret Grudge, neither Humour nor Advantage, Threats nor Promiſes, nor any
+<pb n="22" facs="tcp:100331:15"/>other motive but the ſolid intereſt of the Go<g ref="char:EOLhyphen"/>vernment (to the beſt of your Underſtandings) be the Director of your Votes. Conſider the ineſti<g ref="char:EOLhyphen"/>mable value of a Good Name; and be not ſo un<g ref="char:EOLhyphen"/>reaſonably laviſh of it at one anothers charge, as hath been too too cuſtomary upon theſe occaſions. And bethink your ſelves, what a piece of diſgrace<g ref="char:EOLhyphen"/>ful ſervice it is to thoſe you wiſh well to, to caſt Dirt upon others with no other deſign, but meerly to make them look the cleaner. For 'tis a ſure indi<g ref="char:EOLhyphen"/>cation that his Merit can be of no great Extent, who hath no better a way to come by materials to raiſe the Fabrick of his own Reputation, but out of the Ruins of that of another Man.</p>
+            <p>And finally, To him who ſhall have the Pre<g ref="char:EOLhyphen"/>cedence of all the reſt, I would importunately recommend (in the firſt place) a generous and vindictive Cognizance of all baſe and ſlanderous Indignities that ſhall appear to have been caſt up<g ref="char:EOLhyphen"/>on any of his worthy Brethren, during the Com<g ref="char:EOLhyphen"/>petition: And then a ſerious and impartial Re<g ref="char:EOLhyphen"/>flection upon what hath been already ſaid, with reſpect to the buſineſs, the Snares, and the charge of the Illuſtrious Office he is himſelf to bear, toge<g ref="char:EOLhyphen"/>ther with the Qualifications requiſite to fit a Man for it.</p>
+            <p>Or rather, I would beg leave to refer him to the Univerſal Conduct of his moſt deſervedly ho<g ref="char:EOLhyphen"/>nourable Predeceſſor. A noble Pattern, which (if he duly imitates it) I believe all good Men will readily conclude with me, cannot fail of being (by the Bleſſing of God Almighty) very effectually conducive to the credit of Religion,
+<pb n="23" facs="tcp:100331:15"/>the Eſtabliſhment of the Government, the Union and Proſperity of this great City, and his own Immortal Honour.</p>
+            <closer>Now to God the Father Son and Holy Ghoſt, the only Potentate, by whom Kings reign, and Princes decree Juſtice, be all Honour and Glory, World without end.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
